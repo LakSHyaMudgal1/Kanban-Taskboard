@@ -9,7 +9,7 @@ Installation & Setup
 
 Usage
 Drag task cards between columns
-Add new tasks (feature coming soon!)
+Add new tasks 
 
 Technologies Used
 React (Frontend Framework)
